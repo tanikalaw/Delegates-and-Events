@@ -9,9 +9,9 @@
 
 # Visual Studio 2015 cache/options directory
 .vs/
-*.bin/
-*.obj/
-ConsoleUI/obj/
-DataLibrary/obj/
+*bin/
+*obj/
+
+
 
 
